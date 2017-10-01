@@ -301,7 +301,7 @@
     "order_cancelled": "订单 %(order_id)s 已被取消.",
     "higher": "更高",
     "lower": "更低",
-    "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "Total %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
+    "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "总计 %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
   },
   "recoveraccountstep1_jsx": {
     "begin_recovery": "Begin Recovery",
