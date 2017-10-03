@@ -304,7 +304,7 @@
     "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "总计 %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
   },
   "recoveraccountstep1_jsx": {
-    "begin_recovery": "Begin Recovery",
+    "begin_recovery": "开始恢复 Recovery",
     "not_valid": "Not valid",
     "account_name_is_not_found": "Account name is not found",
     "unable_to_recover_account_not_change_ownership_recently": "We are unable to recover this account, it has not changed ownership recently.",
